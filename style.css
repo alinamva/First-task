@@ -1,7 +1,8 @@
 body {
     background-image: url(picture/back.jpg);
-    background-size: cover;
+    background-size: 100%;
     color: white;
+    background-repeat: no-repeat;
 
 }
 ul {
